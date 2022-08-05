@@ -1,14 +1,14 @@
 <div align="center">
-<h1>vchen</h1>
+<h1>Outsider</h1>
 
 [![Auth](https://img.shields.io/badge/Auth-eryajf-ff69b4)](https://github.com/eryajf)
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/vchen)
-[![GitHub Issues](https://img.shields.io/github/issues/eryajf/vchen.svg)](https://github.com/eryajf/vchen/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/vchen)](https://github.com/eryajf/vchen/pulls)
-[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/vchen)](https://github.com/eryajf/vchen/stargazers)
-[![GitHub license](https://img.shields.io/github/license/eryajf/vchen)](https://github.com/eryajf/vchen/blob/main/LICENSE)
-[![HitCount](https://views.whatilearened.today/views/github/eryajf/vchen.svg)](https://github.com/eryajf/vchen)
-[![website eryajf.github.io/vchen](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/vchen.svg)](https://eryajf.github.io/vchen/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/eryajf/Outsider)
+[![GitHub Issues](https://img.shields.io/github/issues/eryajf/Outsider.svg)](https://github.com/eryajf/Outsider/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/eryajf/Outsider)](https://github.com/eryajf/Outsider/pulls)
+[![GitHub Pull Requests](https://img.shields.io/github/stars/eryajf/Outsider)](https://github.com/eryajf/Outsider/stargazers)
+[![GitHub license](https://img.shields.io/github/license/eryajf/Outsider)](https://github.com/eryajf/Outsider/blob/main/LICENSE)
+[![HitCount](https://views.whatilearened.today/views/github/eryajf/Outsider.svg)](https://github.com/eryajf/Outsider)
+[![website eryajf.github.io/Outsider](https://img.shields.io/website-up-down-green-red/http/eryajf.github.io/Outsider.svg)](https://eryajf.github.io/Outsider/)
 
 <p align="center"> 📖 Vdoing博客主题静态部署模板 📖</p>
 
@@ -40,7 +40,7 @@
 
 ## 初始配置
 
-首先访问模板仓库：[vchen](https://github.com/eryajf/vchen)。点击此仓库右侧的 `Use this template`
+首先访问模板仓库：[Outsider](https://github.com/eryajf/Outsider)。点击此仓库右侧的 `Use this template`
 
 ![image_20220721_153908](https://cdn.staticaly.com/gh/eryajf/tu/main/img/image_20220721_153908.png)
 
